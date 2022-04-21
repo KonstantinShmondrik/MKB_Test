@@ -1,7 +1,7 @@
 # MKB_Test
 ## Тестовое для МКБ  
 ### Задание: 
-Написать Андроид мобильное приложение по отображению списка Курсов Валют. 
+Написать iOS мобильное приложение по отображению списка Курсов Валют.
 
 API: http request: POST url: https://alpha.as50464.net:29870/moby-pre-44/core?r=BEYkZbmV&amp;d=563B4852-6D4B-49D6-A86E-B273DD520FD2&amp;t=ExchangeRates&amp;v=44 
 
